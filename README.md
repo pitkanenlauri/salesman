@@ -6,7 +6,7 @@ Simulated annealing (SA) is a probabilistic technique for approximating the glob
 
 The traveling salesman problem asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?" [[Wikipedia2](https://en.wikipedia.org/wiki/Travelling_salesman_problem)]
 
-For more info see [Travelling salesman.pdf](https://github.com/pitkanenlauri/salesman/blob/main/Travelling%20salesman.pdf).
+For info regarding the coursework assignment see [Travelling salesman.pdf](https://github.com/pitkanenlauri/salesman/blob/main/Travelling%20salesman.pdf).
 
 ## How to use
 
