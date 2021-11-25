@@ -21,4 +21,4 @@ For info regarding the coursework assignment see [Travelling salesman.pdf](https
 
 ![Shortest route with 20 cities.](/salesman_screenshot_cities20.png)
 
-Solution for shortest route of salesman visiting 20 cities.
+Solution for shortest route of salesman visiting 20 cities given in cities20.txt.
